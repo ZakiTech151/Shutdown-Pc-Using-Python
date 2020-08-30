@@ -1,4 +1,4 @@
-
+#Shutdown pc using python
 import os 
 
 shutdown = input("Do you wish to shutdown your computer ? (yes / no): ") 
